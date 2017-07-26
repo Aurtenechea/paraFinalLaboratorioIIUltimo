@@ -1,0 +1,10 @@
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\dos\Practica2\Practica2\bin\Debug\Practica2.exe.config
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\dos\Practica2\Practica2\bin\Debug\Practica2.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\dos\Practica2\Practica2\bin\Debug\Practica2.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\dos\Practica2\Practica2\obj\Debug\Practica2.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\dos\Practica2\Practica2\obj\Debug\Practica2.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\2\Practica2\Practica2\bin\Debug\Practica2.exe.config
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\2\Practica2\Practica2\obj\Debug\Practica2.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\2\Practica2\Practica2\obj\Debug\Practica2.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\2\Practica2\Practica2\bin\Debug\Practica2.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\2\Practica2\Practica2\bin\Debug\Practica2.pdb

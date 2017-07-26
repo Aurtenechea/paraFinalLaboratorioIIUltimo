@@ -1,0 +1,6 @@
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\11_threads\PruebaThreads2\PruebaThreads2\bin\Debug\PruebaThreads2.exe.config
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\11_threads\PruebaThreads2\PruebaThreads2\bin\Debug\PruebaThreads2.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\11_threads\PruebaThreads2\PruebaThreads2\bin\Debug\PruebaThreads2.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\11_threads\PruebaThreads2\PruebaThreads2\obj\Debug\PruebaThreads2.csprojResolveAssemblyReference.cache
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\11_threads\PruebaThreads2\PruebaThreads2\obj\Debug\PruebaThreads2.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\11_threads\PruebaThreads2\PruebaThreads2\obj\Debug\PruebaThreads2.pdb

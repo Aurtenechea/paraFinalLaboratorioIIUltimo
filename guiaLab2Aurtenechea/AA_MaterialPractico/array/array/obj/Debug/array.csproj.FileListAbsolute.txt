@@ -1,0 +1,12 @@
+D:\aurtenechea.ignacio\Csharp\array\array\bin\Debug\array.exe.config
+D:\aurtenechea.ignacio\Csharp\array\array\obj\Debug\array.csprojResolveAssemblyReference.cache
+D:\aurtenechea.ignacio\Csharp\array\array\bin\Debug\array.exe
+D:\aurtenechea.ignacio\Csharp\array\array\bin\Debug\array.pdb
+D:\aurtenechea.ignacio\Csharp\array\array\obj\Debug\array.exe
+D:\aurtenechea.ignacio\Csharp\array\array\obj\Debug\array.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\Csharp\array\array\bin\Debug\array.exe.config
+C:\Users\Nacho\Documents\programas\programasCsharp\Csharp\array\array\obj\Debug\array.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\Csharp\array\array\obj\Debug\array.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\ejerciciosPracticosCsharp\array\array\bin\Debug\array.exe.config
+C:\Users\Nacho\Documents\programas\programasCsharp\ejerciciosPracticosCsharp\array\array\obj\Debug\array.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\ejerciciosPracticosCsharp\array\array\obj\Debug\array.pdb

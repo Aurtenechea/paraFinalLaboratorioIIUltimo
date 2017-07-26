@@ -1,0 +1,5 @@
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\22_indizadores\indizador\indizador\bin\Debug\indizador.exe.config
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\22_indizadores\indizador\indizador\bin\Debug\indizador.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\22_indizadores\indizador\indizador\bin\Debug\indizador.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\22_indizadores\indizador\indizador\obj\Debug\indizador.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\22_indizadores\indizador\indizador\obj\Debug\indizador.pdb

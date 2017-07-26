@@ -1,0 +1,11 @@
+D:\aurtenechea.ignacio\Csharp\ClaseTres\CarreraInterface\bin\Debug\CarreraInterface.exe.config
+D:\aurtenechea.ignacio\Csharp\ClaseTres\CarreraInterface\bin\Debug\CarreraInterface.exe
+D:\aurtenechea.ignacio\Csharp\ClaseTres\CarreraInterface\bin\Debug\CarreraInterface.pdb
+D:\aurtenechea.ignacio\Csharp\ClaseTres\CarreraInterface\bin\Debug\Ejecicio.exe
+D:\aurtenechea.ignacio\Csharp\ClaseTres\CarreraInterface\bin\Debug\Ejecicio.pdb
+D:\aurtenechea.ignacio\Csharp\ClaseTres\CarreraInterface\obj\Debug\CarreraInterface.csprojResolveAssemblyReference.cache
+D:\aurtenechea.ignacio\Csharp\ClaseTres\CarreraInterface\obj\Debug\CarreraInterface.Form1.resources
+D:\aurtenechea.ignacio\Csharp\ClaseTres\CarreraInterface\obj\Debug\CarreraInterface.Properties.Resources.resources
+D:\aurtenechea.ignacio\Csharp\ClaseTres\CarreraInterface\obj\Debug\CarreraInterface.csproj.GenerateResource.Cache
+D:\aurtenechea.ignacio\Csharp\ClaseTres\CarreraInterface\obj\Debug\CarreraInterface.exe
+D:\aurtenechea.ignacio\Csharp\ClaseTres\CarreraInterface\obj\Debug\CarreraInterface.pdb

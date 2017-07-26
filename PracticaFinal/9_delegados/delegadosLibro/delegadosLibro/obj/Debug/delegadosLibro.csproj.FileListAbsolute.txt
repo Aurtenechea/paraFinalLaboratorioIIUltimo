@@ -1,0 +1,5 @@
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\9_delegados\delegadosLibro\delegadosLibro\bin\Debug\delegadosLibro.exe.config
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\9_delegados\delegadosLibro\delegadosLibro\bin\Debug\delegadosLibro.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\9_delegados\delegadosLibro\delegadosLibro\bin\Debug\delegadosLibro.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\9_delegados\delegadosLibro\delegadosLibro\obj\Debug\delegadosLibro.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\9_delegados\delegadosLibro\delegadosLibro\obj\Debug\delegadosLibro.pdb

@@ -1,0 +1,12 @@
+C:\Users\Nacho\Documents\programas\programasCsharp\guiaLab2Aurtenechea\CentralTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.exe.config
+C:\Users\Nacho\Documents\programas\programasCsharp\guiaLab2Aurtenechea\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.csprojResolveAssemblyReference.cache
+C:\Users\Nacho\Documents\programas\programasCsharp\guiaLab2Aurtenechea\CentralTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\guiaLab2Aurtenechea\CentralTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\guiaLab2Aurtenechea\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\guiaLab2Aurtenechea\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\TPcentralitacSharp2016\CentralitaHerencia\bin\Debug\CentralitaHerencia.exe.config
+C:\Users\Nacho\Documents\programas\programasCsharp\TPcentralitacSharp2016\CentralitaHerencia\obj\Debug\CentralitaHerencia.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\TPcentralitacSharp2016\CentralitaHerencia\bin\Debug\CentralitaHerencia.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\TPcentralitacSharp2016\CentralitaHerencia\bin\Debug\CentralitaHerencia.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\TPcentralitacSharp2016\CentralitaHerencia\obj\Debug\CentralitaHerencia.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\TPcentralitacSharp2016\CentralitaHerencia\obj\Debug\CentralitaHerencia.csprojResolveAssemblyReference.cache

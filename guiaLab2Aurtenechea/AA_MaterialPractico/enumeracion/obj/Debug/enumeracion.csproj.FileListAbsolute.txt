@@ -1,0 +1,6 @@
+c:\users\nacho\documents\visual studio 2012\Projects\ejemplosPracticos\enumeracion\bin\Debug\enumeracion.exe.config
+c:\users\nacho\documents\visual studio 2012\Projects\ejemplosPracticos\enumeracion\bin\Debug\enumeracion.exe
+c:\users\nacho\documents\visual studio 2012\Projects\ejemplosPracticos\enumeracion\bin\Debug\enumeracion.pdb
+c:\users\nacho\documents\visual studio 2012\Projects\ejemplosPracticos\enumeracion\obj\Debug\enumeracion.csprojResolveAssemblyReference.cache
+c:\users\nacho\documents\visual studio 2012\Projects\ejemplosPracticos\enumeracion\obj\Debug\enumeracion.exe
+c:\users\nacho\documents\visual studio 2012\Projects\ejemplosPracticos\enumeracion\obj\Debug\enumeracion.pdb

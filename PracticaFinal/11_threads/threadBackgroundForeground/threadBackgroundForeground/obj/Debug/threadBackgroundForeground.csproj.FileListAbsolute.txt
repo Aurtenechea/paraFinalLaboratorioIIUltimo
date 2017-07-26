@@ -1,0 +1,6 @@
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\11_threads\threadBackgroundForeground\threadBackgroundForeground\bin\Debug\threadBackgroundForeground.exe.config
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\11_threads\threadBackgroundForeground\threadBackgroundForeground\bin\Debug\threadBackgroundForeground.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\11_threads\threadBackgroundForeground\threadBackgroundForeground\bin\Debug\threadBackgroundForeground.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\11_threads\threadBackgroundForeground\threadBackgroundForeground\obj\Debug\threadBackgroundForeground.csprojResolveAssemblyReference.cache
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\11_threads\threadBackgroundForeground\threadBackgroundForeground\obj\Debug\threadBackgroundForeground.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\11_threads\threadBackgroundForeground\threadBackgroundForeground\obj\Debug\threadBackgroundForeground.pdb

@@ -1,0 +1,9 @@
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\7\Practica7\TestUnitario\bin\Debug\TestUnitario.dll
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\7\Practica7\TestUnitario\bin\Debug\TestUnitario.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\7\Practica7\TestUnitario\bin\Debug\Practica7.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\7\Practica7\TestUnitario\bin\Debug\ProyectoAparte.dll
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\7\Practica7\TestUnitario\bin\Debug\Practica7.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\7\Practica7\TestUnitario\bin\Debug\ProyectoAparte.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\7\Practica7\TestUnitario\obj\Debug\TestUnitario.csprojResolveAssemblyReference.cache
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\7\Practica7\TestUnitario\obj\Debug\TestUnitario.dll
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\7\Practica7\TestUnitario\obj\Debug\TestUnitario.pdb

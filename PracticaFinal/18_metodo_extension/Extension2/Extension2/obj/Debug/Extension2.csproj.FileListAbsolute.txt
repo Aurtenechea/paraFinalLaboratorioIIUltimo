@@ -1,0 +1,5 @@
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\18_metodo_extension\Extension2\Extension2\bin\Debug\Extension2.exe.config
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\18_metodo_extension\Extension2\Extension2\bin\Debug\Extension2.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\18_metodo_extension\Extension2\Extension2\bin\Debug\Extension2.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\18_metodo_extension\Extension2\Extension2\obj\Debug\Extension2.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\18_metodo_extension\Extension2\Extension2\obj\Debug\Extension2.pdb

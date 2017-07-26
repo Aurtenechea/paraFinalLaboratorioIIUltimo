@@ -1,0 +1,10 @@
+D:\aurtenechea.ignacio\guiaLab2Aurtenechea\progIImodeloParcial\progIImodeloParcial\obj\Debug\progIImodeloParcial.csprojResolveAssemblyReference.cache
+D:\aurtenechea.ignacio\guiaLab2Aurtenechea\progIImodeloParcial\progIImodeloParcial\bin\Debug\progIImodeloParcial.dll
+D:\aurtenechea.ignacio\guiaLab2Aurtenechea\progIImodeloParcial\progIImodeloParcial\bin\Debug\progIImodeloParcial.pdb
+D:\aurtenechea.ignacio\guiaLab2Aurtenechea\progIImodeloParcial\progIImodeloParcial\obj\Debug\progIImodeloParcial.dll
+D:\aurtenechea.ignacio\guiaLab2Aurtenechea\progIImodeloParcial\progIImodeloParcial\obj\Debug\progIImodeloParcial.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\guiaLab2Aurtenechea\progIImodeloParcial\progIImodeloParcial\bin\Debug\progIImodeloParcial.dll
+C:\Users\Nacho\Documents\programas\programasCsharp\guiaLab2Aurtenechea\progIImodeloParcial\progIImodeloParcial\bin\Debug\progIImodeloParcial.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\guiaLab2Aurtenechea\progIImodeloParcial\progIImodeloParcial\obj\Debug\progIImodeloParcial.csprojResolveAssemblyReference.cache
+C:\Users\Nacho\Documents\programas\programasCsharp\guiaLab2Aurtenechea\progIImodeloParcial\progIImodeloParcial\obj\Debug\progIImodeloParcial.dll
+C:\Users\Nacho\Documents\programas\programasCsharp\guiaLab2Aurtenechea\progIImodeloParcial\progIImodeloParcial\obj\Debug\progIImodeloParcial.pdb

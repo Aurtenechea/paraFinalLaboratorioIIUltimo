@@ -1,0 +1,9 @@
+C:\Users\Nacho\Documents\programas\programasCsharp\ejerciciosPracticosCsharp\Interfaces\Interfaces\bin\Debug\Interfaces.exe.config
+C:\Users\Nacho\Documents\programas\programasCsharp\ejerciciosPracticosCsharp\Interfaces\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\Nacho\Documents\programas\programasCsharp\ejerciciosPracticosCsharp\Interfaces\Interfaces\bin\Debug\Interfaces.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\ejerciciosPracticosCsharp\Interfaces\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\ejerciciosPracticosCsharp\Interfaces\Interfaces\obj\Debug\Interfaces.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\ejerciciosPracticosCsharp\Interfaces\Interfaces\obj\Debug\Interfaces.pdb
+C:\Users\Nacho\Desktop\MaterialPractico\Interfaces\Interfaces\bin\Debug\Interfaces.exe.config
+C:\Users\Nacho\Desktop\MaterialPractico\Interfaces\Interfaces\obj\Debug\Interfaces.exe
+C:\Users\Nacho\Desktop\MaterialPractico\Interfaces\Interfaces\obj\Debug\Interfaces.pdb

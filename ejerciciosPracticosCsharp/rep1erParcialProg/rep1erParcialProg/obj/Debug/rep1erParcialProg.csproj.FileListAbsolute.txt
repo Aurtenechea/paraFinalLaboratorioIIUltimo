@@ -1,0 +1,6 @@
+C:\Users\Nacho\Documents\programas\programasCsharp\ejerciciosPracticosCsharp\rep1erParcialProg\rep1erParcialProg\bin\Debug\rep1erParcialProg.exe.config
+C:\Users\Nacho\Documents\programas\programasCsharp\ejerciciosPracticosCsharp\rep1erParcialProg\rep1erParcialProg\obj\Debug\rep1erParcialProg.csprojResolveAssemblyReference.cache
+C:\Users\Nacho\Documents\programas\programasCsharp\ejerciciosPracticosCsharp\rep1erParcialProg\rep1erParcialProg\bin\Debug\rep1erParcialProg.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\ejerciciosPracticosCsharp\rep1erParcialProg\rep1erParcialProg\bin\Debug\rep1erParcialProg.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\ejerciciosPracticosCsharp\rep1erParcialProg\rep1erParcialProg\obj\Debug\rep1erParcialProg.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\ejerciciosPracticosCsharp\rep1erParcialProg\rep1erParcialProg\obj\Debug\rep1erParcialProg.pdb

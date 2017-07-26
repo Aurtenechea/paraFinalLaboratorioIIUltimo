@@ -1,0 +1,7 @@
+D:\aurtenechea.ignacio\mas\EventsAndDelegates\EventsAndDelegates\bin\Debug\EventsAndDelegates.exe.config
+D:\aurtenechea.ignacio\mas\EventsAndDelegates\EventsAndDelegates\bin\Debug\EventsAndDelegates.exe
+D:\aurtenechea.ignacio\mas\EventsAndDelegates\EventsAndDelegates\bin\Debug\EventsAndDelegates.pdb
+D:\aurtenechea.ignacio\mas\EventsAndDelegates\EventsAndDelegates\obj\Debug\EventsAndDelegates.Properties.Resources.resources
+D:\aurtenechea.ignacio\mas\EventsAndDelegates\EventsAndDelegates\obj\Debug\EventsAndDelegates.csproj.GenerateResource.Cache
+D:\aurtenechea.ignacio\mas\EventsAndDelegates\EventsAndDelegates\obj\Debug\EventsAndDelegates.exe
+D:\aurtenechea.ignacio\mas\EventsAndDelegates\EventsAndDelegates\obj\Debug\EventsAndDelegates.pdb

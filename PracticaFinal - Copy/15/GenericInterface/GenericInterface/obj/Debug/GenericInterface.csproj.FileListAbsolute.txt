@@ -1,0 +1,10 @@
+C:\Users\Nacho\Desktop\GenericInterface\GenericInterface\bin\Debug\GenericInterface.exe.config
+C:\Users\Nacho\Desktop\GenericInterface\GenericInterface\obj\Debug\GenericInterface.csprojResolveAssemblyReference.cache
+C:\Users\Nacho\Desktop\GenericInterface\GenericInterface\bin\Debug\GenericInterface.exe
+C:\Users\Nacho\Desktop\GenericInterface\GenericInterface\bin\Debug\GenericInterface.pdb
+C:\Users\Nacho\Desktop\GenericInterface\GenericInterface\obj\Debug\GenericInterface.exe
+C:\Users\Nacho\Desktop\GenericInterface\GenericInterface\obj\Debug\GenericInterface.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\guiaLab2Aurtenechea\AA_MaterialPractico\AA_Organizados\GenericInterface\GenericInterface\bin\Debug\GenericInterface.exe.config
+C:\Users\Nacho\Documents\programas\programasCsharp\guiaLab2Aurtenechea\AA_MaterialPractico\AA_Organizados\GenericInterface\GenericInterface\obj\Debug\GenericInterface.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\guiaLab2Aurtenechea\AA_MaterialPractico\AA_Organizados\GenericInterface\GenericInterface\obj\Debug\GenericInterface.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\guiaLab2Aurtenechea\AA_MaterialPractico\AA_Organizados\GenericInterface\GenericInterface\obj\Debug\GenericInterface.csprojResolveAssemblyReference.cache

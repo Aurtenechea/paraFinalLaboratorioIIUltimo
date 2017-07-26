@@ -1,0 +1,5 @@
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\9_delegados\otroDeDelegados\delegados\delegados\bin\Debug\delegados.exe.config
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\9_delegados\otroDeDelegados\delegados\delegados\bin\Debug\delegados.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\9_delegados\otroDeDelegados\delegados\delegados\bin\Debug\delegados.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\9_delegados\otroDeDelegados\delegados\delegados\obj\Debug\delegados.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\9_delegados\otroDeDelegados\delegados\delegados\obj\Debug\delegados.pdb

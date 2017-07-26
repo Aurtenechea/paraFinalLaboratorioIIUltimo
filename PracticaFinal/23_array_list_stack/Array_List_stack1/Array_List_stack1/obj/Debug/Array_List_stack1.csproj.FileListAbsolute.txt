@@ -1,0 +1,6 @@
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\23_array_list_stack\Array_List_stack1\Array_List_stack1\bin\Debug\Array_List_stack1.exe.config
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\23_array_list_stack\Array_List_stack1\Array_List_stack1\bin\Debug\Array_List_stack1.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\23_array_list_stack\Array_List_stack1\Array_List_stack1\bin\Debug\Array_List_stack1.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\23_array_list_stack\Array_List_stack1\Array_List_stack1\obj\Debug\Array_List_stack1.csprojResolveAssemblyReference.cache
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\23_array_list_stack\Array_List_stack1\Array_List_stack1\obj\Debug\Array_List_stack1.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\23_array_list_stack\Array_List_stack1\Array_List_stack1\obj\Debug\Array_List_stack1.pdb

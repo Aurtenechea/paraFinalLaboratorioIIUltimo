@@ -1,0 +1,15 @@
+D:\aurtenechea.ignacio\Csharp\Testeando_25-10-16\Testeando_25-10-16\bin\Debug\Testeando_25-10-16.exe.config
+D:\aurtenechea.ignacio\Csharp\Testeando_25-10-16\Testeando_25-10-16\bin\Debug\Testeando_25-10-16.exe
+D:\aurtenechea.ignacio\Csharp\Testeando_25-10-16\Testeando_25-10-16\bin\Debug\Testeando_25-10-16.pdb
+D:\aurtenechea.ignacio\Csharp\Testeando_25-10-16\Testeando_25-10-16\obj\Debug\Testeando_25-10-16.csprojResolveAssemblyReference.cache
+D:\aurtenechea.ignacio\Csharp\Testeando_25-10-16\Testeando_25-10-16\obj\Debug\Testeando_25-10-16.exe
+D:\aurtenechea.ignacio\Csharp\Testeando_25-10-16\Testeando_25-10-16\obj\Debug\Testeando_25-10-16.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\Csharp\Testeando_25-10-16\Testeando_25-10-16\bin\Debug\Testeando_25-10-16.exe.config
+C:\Users\Nacho\Documents\programas\programasCsharp\Csharp\Testeando_25-10-16\Testeando_25-10-16\obj\Debug\Testeando_25-10-16.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\Csharp\Testeando_25-10-16\Testeando_25-10-16\obj\Debug\Testeando_25-10-16.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\Csharp\Testeando_25-10-16\Testeando_25-10-16\bin\Debug\Testeando_25-10-16.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\Csharp\Testeando_25-10-16\Testeando_25-10-16\bin\Debug\Testeando_25-10-16.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\Csharp\Testeando_25-10-16\Testeando_25-10-16\obj\Debug\Testeando_25-10-16.csprojResolveAssemblyReference.cache
+C:\Users\Nacho\Desktop\MaterialPractico\Testeando_25-10-16\Testeando_25-10-16\bin\Debug\Testeando_25-10-16.exe.config
+C:\Users\Nacho\Desktop\MaterialPractico\Testeando_25-10-16\Testeando_25-10-16\obj\Debug\Testeando_25-10-16.exe
+C:\Users\Nacho\Desktop\MaterialPractico\Testeando_25-10-16\Testeando_25-10-16\obj\Debug\Testeando_25-10-16.pdb

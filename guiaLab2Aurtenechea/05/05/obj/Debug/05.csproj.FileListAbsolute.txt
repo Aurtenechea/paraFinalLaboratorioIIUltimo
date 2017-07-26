@@ -1,0 +1,6 @@
+C:\Users\Nacho\Documents\programas\programasCsharp\guiaLab2Aurtenechea\05\05\bin\Debug\05.exe.config
+C:\Users\Nacho\Documents\programas\programasCsharp\guiaLab2Aurtenechea\05\05\bin\Debug\05.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\guiaLab2Aurtenechea\05\05\bin\Debug\05.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\guiaLab2Aurtenechea\05\05\obj\Debug\05.csprojResolveAssemblyReference.cache
+C:\Users\Nacho\Documents\programas\programasCsharp\guiaLab2Aurtenechea\05\05\obj\Debug\05.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\guiaLab2Aurtenechea\05\05\obj\Debug\05.pdb

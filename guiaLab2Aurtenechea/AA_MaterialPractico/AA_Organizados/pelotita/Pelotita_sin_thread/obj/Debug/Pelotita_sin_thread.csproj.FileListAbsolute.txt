@@ -1,0 +1,4 @@
+D:\aurtenechea.ignacio\mas\pelotita\Pelotita_sin_thread\bin\Debug\Pelotita_sin_thread.dll
+D:\aurtenechea.ignacio\mas\pelotita\Pelotita_sin_thread\bin\Debug\Pelotita_sin_thread.pdb
+D:\aurtenechea.ignacio\mas\pelotita\Pelotita_sin_thread\obj\Debug\Pelotita_sin_thread.dll
+D:\aurtenechea.ignacio\mas\pelotita\Pelotita_sin_thread\obj\Debug\Pelotita_sin_thread.pdb

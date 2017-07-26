@@ -1,0 +1,10 @@
+D:\aurtenechea.ignacio\mas\ejemploDDBB\ejemploDDBB\bin\Debug\ejemploDDBB.exe.config
+D:\aurtenechea.ignacio\mas\ejemploDDBB\ejemploDDBB\bin\Debug\ejemploDDBB.exe
+D:\aurtenechea.ignacio\mas\ejemploDDBB\ejemploDDBB\bin\Debug\ejemploDDBB.pdb
+D:\aurtenechea.ignacio\mas\ejemploDDBB\ejemploDDBB\obj\Debug\ejemploDDBB.csprojResolveAssemblyReference.cache
+D:\aurtenechea.ignacio\mas\ejemploDDBB\ejemploDDBB\obj\Debug\ejemploDDBB.Properties.Resources.resources
+D:\aurtenechea.ignacio\mas\ejemploDDBB\ejemploDDBB\obj\Debug\ejemploDDBB.csproj.GenerateResource.Cache
+D:\aurtenechea.ignacio\mas\ejemploDDBB\ejemploDDBB\obj\Debug\ejemploDDBB.exe
+D:\aurtenechea.ignacio\mas\ejemploDDBB\ejemploDDBB\obj\Debug\ejemploDDBB.pdb
+D:\aurtenechea.ignacio\mas\ejemploDDBB\ejemploDDBB\obj\Debug\ejemploDDBB.Form1.resources
+D:\aurtenechea.ignacio\mas\ejemploDDBB\ejemploDDBB\obj\Debug\ejemploDDBB.Persona2.resources

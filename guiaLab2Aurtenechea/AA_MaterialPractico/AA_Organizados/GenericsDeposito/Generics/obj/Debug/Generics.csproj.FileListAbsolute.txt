@@ -1,0 +1,12 @@
+D:\aurtenechea.ignacio\Csharp\Generics\Generics\bin\Debug\Generics.exe.config
+D:\aurtenechea.ignacio\Csharp\Generics\Generics\obj\Debug\Generics.csprojResolveAssemblyReference.cache
+D:\aurtenechea.ignacio\Csharp\Generics\Generics\bin\Debug\Generics.exe
+D:\aurtenechea.ignacio\Csharp\Generics\Generics\bin\Debug\Generics.pdb
+D:\aurtenechea.ignacio\Csharp\Generics\Generics\obj\Debug\Generics.exe
+D:\aurtenechea.ignacio\Csharp\Generics\Generics\obj\Debug\Generics.pdb
+C:\Users\Nacho\Desktop\MaterialPractico\Generics\Generics\bin\Debug\Generics.exe.config
+C:\Users\Nacho\Desktop\MaterialPractico\Generics\Generics\obj\Debug\Generics.exe
+C:\Users\Nacho\Desktop\MaterialPractico\Generics\Generics\obj\Debug\Generics.pdb
+C:\Users\Nacho\Desktop\MaterialPractico\Generics\Generics\bin\Debug\Generics.exe
+C:\Users\Nacho\Desktop\MaterialPractico\Generics\Generics\bin\Debug\Generics.pdb
+C:\Users\Nacho\Desktop\MaterialPractico\Generics\Generics\obj\Debug\Generics.csprojResolveAssemblyReference.cache

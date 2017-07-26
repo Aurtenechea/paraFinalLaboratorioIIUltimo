@@ -1,0 +1,5 @@
+D:\aurtenechea.ignacio\Csharp\indexador\exepcion\bin\Debug\exepcion.exe.config
+D:\aurtenechea.ignacio\Csharp\indexador\exepcion\bin\Debug\exepcion.exe
+D:\aurtenechea.ignacio\Csharp\indexador\exepcion\bin\Debug\exepcion.pdb
+D:\aurtenechea.ignacio\Csharp\indexador\exepcion\obj\Debug\exepcion.exe
+D:\aurtenechea.ignacio\Csharp\indexador\exepcion\obj\Debug\exepcion.pdb

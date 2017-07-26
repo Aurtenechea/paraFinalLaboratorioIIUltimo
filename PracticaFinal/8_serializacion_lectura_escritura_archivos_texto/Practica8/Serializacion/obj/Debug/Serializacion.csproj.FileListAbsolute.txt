@@ -1,0 +1,4 @@
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\8\Practica8\Serializacion\bin\Debug\Serializacion.dll
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\8\Practica8\Serializacion\bin\Debug\Serializacion.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\8\Practica8\Serializacion\obj\Debug\Serializacion.dll
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\8\Practica8\Serializacion\obj\Debug\Serializacion.pdb

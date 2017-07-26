@@ -1,0 +1,12 @@
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\21_baseDeDatosConexion\LasCuatroOperacionesBasicas\Lib\bin\Debug\Lib.dll.config
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\21_baseDeDatosConexion\LasCuatroOperacionesBasicas\Lib\bin\Debug\Lib.dll
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\21_baseDeDatosConexion\LasCuatroOperacionesBasicas\Lib\bin\Debug\Lib.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\21_baseDeDatosConexion\LasCuatroOperacionesBasicas\Lib\obj\Debug\Lib.csprojResolveAssemblyReference.cache
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\21_baseDeDatosConexion\LasCuatroOperacionesBasicas\Lib\obj\Debug\Lib.dll
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\21_baseDeDatosConexion\LasCuatroOperacionesBasicas\Lib\obj\Debug\Lib.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\MaterialParaFinal\BaseDeDatos\LasCuatroOperacionesBasicas\Lib\bin\Debug\Lib.dll.config
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\MaterialParaFinal\BaseDeDatos\LasCuatroOperacionesBasicas\Lib\bin\Debug\Lib.dll
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\MaterialParaFinal\BaseDeDatos\LasCuatroOperacionesBasicas\Lib\bin\Debug\Lib.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\MaterialParaFinal\BaseDeDatos\LasCuatroOperacionesBasicas\Lib\obj\Debug\Lib.csprojResolveAssemblyReference.cache
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\MaterialParaFinal\BaseDeDatos\LasCuatroOperacionesBasicas\Lib\obj\Debug\Lib.dll
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\MaterialParaFinal\BaseDeDatos\LasCuatroOperacionesBasicas\Lib\obj\Debug\Lib.pdb

@@ -1,0 +1,6 @@
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\8_serializacion_lectura_escritura_archivos_texto\SerPractica2\SerPractica2\bin\Debug\SerPractica2.exe.config
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\8_serializacion_lectura_escritura_archivos_texto\SerPractica2\SerPractica2\bin\Debug\SerPractica2.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\8_serializacion_lectura_escritura_archivos_texto\SerPractica2\SerPractica2\bin\Debug\SerPractica2.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\8_serializacion_lectura_escritura_archivos_texto\SerPractica2\SerPractica2\obj\Debug\SerPractica2.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\8_serializacion_lectura_escritura_archivos_texto\SerPractica2\SerPractica2\obj\Debug\SerPractica2.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\8_serializacion_lectura_escritura_archivos_texto\SerPractica2\SerPractica2\obj\Debug\SerPractica2.csprojResolveAssemblyReference.cache

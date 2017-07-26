@@ -1,0 +1,16 @@
+D:\aurtenechea.ignacio\guiaLab2Aurtenechea\progIImodeloParcial\TestEstante\bin\Debug\TestEstante.exe.config
+D:\aurtenechea.ignacio\guiaLab2Aurtenechea\progIImodeloParcial\TestEstante\obj\Debug\TestEstante.csprojResolveAssemblyReference.cache
+D:\aurtenechea.ignacio\guiaLab2Aurtenechea\progIImodeloParcial\TestEstante\bin\Debug\TestEstante.exe
+D:\aurtenechea.ignacio\guiaLab2Aurtenechea\progIImodeloParcial\TestEstante\bin\Debug\TestEstante.pdb
+D:\aurtenechea.ignacio\guiaLab2Aurtenechea\progIImodeloParcial\TestEstante\bin\Debug\progIImodeloParcial.dll
+D:\aurtenechea.ignacio\guiaLab2Aurtenechea\progIImodeloParcial\TestEstante\bin\Debug\progIImodeloParcial.pdb
+D:\aurtenechea.ignacio\guiaLab2Aurtenechea\progIImodeloParcial\TestEstante\obj\Debug\TestEstante.exe
+D:\aurtenechea.ignacio\guiaLab2Aurtenechea\progIImodeloParcial\TestEstante\obj\Debug\TestEstante.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\guiaLab2Aurtenechea\progIImodeloParcial\TestEstante\bin\Debug\TestEstante.exe.config
+C:\Users\Nacho\Documents\programas\programasCsharp\guiaLab2Aurtenechea\progIImodeloParcial\TestEstante\obj\Debug\TestEstante.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\guiaLab2Aurtenechea\progIImodeloParcial\TestEstante\obj\Debug\TestEstante.csprojResolveAssemblyReference.cache
+C:\Users\Nacho\Documents\programas\programasCsharp\guiaLab2Aurtenechea\progIImodeloParcial\TestEstante\bin\Debug\TestEstante.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\guiaLab2Aurtenechea\progIImodeloParcial\TestEstante\bin\Debug\TestEstante.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\guiaLab2Aurtenechea\progIImodeloParcial\TestEstante\bin\Debug\progIImodeloParcial.dll
+C:\Users\Nacho\Documents\programas\programasCsharp\guiaLab2Aurtenechea\progIImodeloParcial\TestEstante\bin\Debug\progIImodeloParcial.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\guiaLab2Aurtenechea\progIImodeloParcial\TestEstante\obj\Debug\TestEstante.pdb

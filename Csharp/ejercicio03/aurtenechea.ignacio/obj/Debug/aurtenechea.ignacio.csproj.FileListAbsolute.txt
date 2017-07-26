@@ -1,0 +1,6 @@
+D:\Mis documentos\ejercicio03\aurtenechea.ignacio\bin\Debug\aurtenechea.ignacio.exe.config
+D:\Mis documentos\ejercicio03\aurtenechea.ignacio\bin\Debug\aurtenechea.ignacio.exe
+D:\Mis documentos\ejercicio03\aurtenechea.ignacio\bin\Debug\aurtenechea.ignacio.pdb
+D:\Mis documentos\ejercicio03\aurtenechea.ignacio\obj\Debug\aurtenechea.ignacio.csprojResolveAssemblyReference.cache
+D:\Mis documentos\ejercicio03\aurtenechea.ignacio\obj\Debug\aurtenechea.ignacio.exe
+D:\Mis documentos\ejercicio03\aurtenechea.ignacio\obj\Debug\aurtenechea.ignacio.pdb

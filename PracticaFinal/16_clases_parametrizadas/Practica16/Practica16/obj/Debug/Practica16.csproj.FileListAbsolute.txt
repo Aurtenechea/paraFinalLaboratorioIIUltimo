@@ -1,0 +1,8 @@
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\16\Practica16\Practica16\bin\Debug\Practica16.exe.config
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\16\Practica16\Practica16\bin\Debug\Practica16.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\16\Practica16\Practica16\bin\Debug\Practica16.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\16\Practica16\Practica16\obj\Debug\Practica16.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\16\Practica16\Practica16\obj\Debug\Practica16.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\16_clases_parametrizadas\Practica16\Practica16\bin\Debug\Practica16.exe.config
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\16_clases_parametrizadas\Practica16\Practica16\obj\Debug\Practica16.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\16_clases_parametrizadas\Practica16\Practica16\obj\Debug\Practica16.pdb

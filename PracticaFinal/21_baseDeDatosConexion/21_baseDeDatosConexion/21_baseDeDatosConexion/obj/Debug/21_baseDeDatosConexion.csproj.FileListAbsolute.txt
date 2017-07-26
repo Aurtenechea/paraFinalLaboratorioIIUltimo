@@ -1,0 +1,6 @@
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\21_baseDeDatosConexion\21_baseDeDatosConexion\21_baseDeDatosConexion\bin\Debug\21_baseDeDatosConexion.exe.config
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\21_baseDeDatosConexion\21_baseDeDatosConexion\21_baseDeDatosConexion\bin\Debug\21_baseDeDatosConexion.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\21_baseDeDatosConexion\21_baseDeDatosConexion\21_baseDeDatosConexion\bin\Debug\21_baseDeDatosConexion.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\21_baseDeDatosConexion\21_baseDeDatosConexion\21_baseDeDatosConexion\obj\Debug\21_baseDeDatosConexion.csprojResolveAssemblyReference.cache
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\21_baseDeDatosConexion\21_baseDeDatosConexion\21_baseDeDatosConexion\obj\Debug\21_baseDeDatosConexion.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\21_baseDeDatosConexion\21_baseDeDatosConexion\21_baseDeDatosConexion\obj\Debug\21_baseDeDatosConexion.pdb

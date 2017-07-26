@@ -1,0 +1,5 @@
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\9_delegados\delegadoFuncionPrivada\delegadoFuncionPrivada\bin\Debug\delegadoFuncionPrivada.exe.config
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\9_delegados\delegadoFuncionPrivada\delegadoFuncionPrivada\bin\Debug\delegadoFuncionPrivada.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\9_delegados\delegadoFuncionPrivada\delegadoFuncionPrivada\bin\Debug\delegadoFuncionPrivada.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\9_delegados\delegadoFuncionPrivada\delegadoFuncionPrivada\obj\Debug\delegadoFuncionPrivada.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\9_delegados\delegadoFuncionPrivada\delegadoFuncionPrivada\obj\Debug\delegadoFuncionPrivada.pdb

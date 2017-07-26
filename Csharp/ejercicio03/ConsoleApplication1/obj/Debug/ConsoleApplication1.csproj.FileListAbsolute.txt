@@ -1,0 +1,8 @@
+D:\Aurtenechea.ignacio\ejercicio03\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Aurtenechea.ignacio\ejercicio03\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Aurtenechea.ignacio\ejercicio03\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Aurtenechea.ignacio\ejercicio03\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Aurtenechea.ignacio\ejercicio03\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\Csharp\ejercicio03\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Nacho\Documents\programas\programasCsharp\Csharp\ejercicio03\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\Csharp\ejercicio03\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

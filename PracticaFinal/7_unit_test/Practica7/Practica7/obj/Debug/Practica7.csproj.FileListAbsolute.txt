@@ -1,0 +1,8 @@
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\7\Practica7\Practica7\bin\Debug\Practica7.exe.config
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\7\Practica7\Practica7\bin\Debug\Practica7.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\7\Practica7\Practica7\bin\Debug\Practica7.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\7\Practica7\Practica7\obj\Debug\Practica7.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\7\Practica7\Practica7\obj\Debug\Practica7.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\7\Practica7\Practica7\bin\Debug\ProyectoAparte.dll
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\7\Practica7\Practica7\bin\Debug\ProyectoAparte.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\7\Practica7\Practica7\obj\Debug\Practica7.csprojResolveAssemblyReference.cache

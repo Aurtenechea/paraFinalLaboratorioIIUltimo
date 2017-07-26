@@ -1,0 +1,8 @@
+D:\aurtenechea.ignacio\PrimerParcialAurtenecheaIgnacio\BolicheTony\bin\Debug\BolicheTony.exe.config
+D:\aurtenechea.ignacio\PrimerParcialAurtenecheaIgnacio\BolicheTony\bin\Debug\BolicheTony.exe
+D:\aurtenechea.ignacio\PrimerParcialAurtenecheaIgnacio\BolicheTony\bin\Debug\BolicheTony.pdb
+D:\aurtenechea.ignacio\PrimerParcialAurtenecheaIgnacio\BolicheTony\obj\Debug\BolicheTony.csprojResolveAssemblyReference.cache
+D:\aurtenechea.ignacio\PrimerParcialAurtenecheaIgnacio\BolicheTony\obj\Debug\BolicheTony.exe
+D:\aurtenechea.ignacio\PrimerParcialAurtenecheaIgnacio\BolicheTony\obj\Debug\BolicheTony.pdb
+D:\aurtenechea.ignacio\PrimerParcialAurtenecheaIgnacio\BolicheTony\bin\Debug\Entidades.dll
+D:\aurtenechea.ignacio\PrimerParcialAurtenecheaIgnacio\BolicheTony\bin\Debug\Entidades.pdb

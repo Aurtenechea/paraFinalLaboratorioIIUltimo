@@ -1,0 +1,43 @@
+array, arrays multidimencionales, list, queue, stack
+
+fomularios.
+	Propiedades comunes
+	CheckBox
+	RadioButton y GroupBox 
+	ListBox
+	ComboBox
+
+delegados y eventos.
+
+equeals
+
+interface
+
+crear una aplicacion por consola y form.
+
+
+sort en un List.. (hay que pasarle una funcion.)
+
+operadores de casteo
+// si se define el metodo de forma explicita funciona para las dos formas, 
+            // sino, si es explicita funciona solo de forma explicita.
+         public static implicit operator Tiempo(int numero)
+         { 
+            return new Tiempo(numero);
+            // y para usarlo...
+            // de forma implicita:
+            // Tiempo reloj = 33;
+            // de forma explicita:
+            // Tiempo reloj = (Tiempo) 33;
+            // si se define el metodo de forma explicita funciona para las dos formas, 
+            // sino, si es explicita funciona solo de forma explicita.
+
+         }
+
+        public static explicit operator int (Tiempo tiempo)
+        {
+            return tiempo._cantidad;
+        }
+
+
+

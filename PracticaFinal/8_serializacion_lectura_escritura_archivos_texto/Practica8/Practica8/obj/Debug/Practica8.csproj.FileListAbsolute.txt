@@ -1,0 +1,11 @@
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\8\Practica8\Practica8\bin\Debug\Practica8.exe.config
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\8\Practica8\Practica8\bin\Debug\Practica8.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\8\Practica8\Practica8\bin\Debug\Practica8.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\8\Practica8\Practica8\bin\Debug\Serializacion.dll
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\8\Practica8\Practica8\bin\Debug\Serializacion.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\8\Practica8\Practica8\obj\Debug\Practica8.csprojResolveAssemblyReference.cache
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\8\Practica8\Practica8\obj\Debug\Practica8.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\8\Practica8\Practica8\obj\Debug\Practica8.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\8_serializacion_lectura_escritura_archivos_texto\Practica8\Practica8\bin\Debug\Practica8.exe.config
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\8_serializacion_lectura_escritura_archivos_texto\Practica8\Practica8\obj\Debug\Practica8.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\8_serializacion_lectura_escritura_archivos_texto\Practica8\Practica8\obj\Debug\Practica8.pdb

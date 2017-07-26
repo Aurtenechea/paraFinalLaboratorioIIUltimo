@@ -1,0 +1,5 @@
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\7\Practica7\ProyectoAparte\bin\Debug\ProyectoAparte.dll
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\7\Practica7\ProyectoAparte\bin\Debug\ProyectoAparte.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\7\Practica7\ProyectoAparte\obj\Debug\ProyectoAparte.dll
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\7\Practica7\ProyectoAparte\obj\Debug\ProyectoAparte.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\7\Practica7\ProyectoAparte\obj\Debug\ProyectoAparte.csprojResolveAssemblyReference.cache

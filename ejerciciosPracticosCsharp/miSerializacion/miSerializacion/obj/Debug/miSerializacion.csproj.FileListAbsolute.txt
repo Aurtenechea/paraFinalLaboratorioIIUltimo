@@ -1,0 +1,6 @@
+C:\Users\Nacho\Documents\programas\programasCsharp\ejerciciosPracticosCsharp\miSerializacion\miSerializacion\bin\Debug\miSerializacion.exe.config
+C:\Users\Nacho\Documents\programas\programasCsharp\ejerciciosPracticosCsharp\miSerializacion\miSerializacion\bin\Debug\miSerializacion.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\ejerciciosPracticosCsharp\miSerializacion\miSerializacion\bin\Debug\miSerializacion.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\ejerciciosPracticosCsharp\miSerializacion\miSerializacion\obj\Debug\miSerializacion.csprojResolveAssemblyReference.cache
+C:\Users\Nacho\Documents\programas\programasCsharp\ejerciciosPracticosCsharp\miSerializacion\miSerializacion\obj\Debug\miSerializacion.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\ejerciciosPracticosCsharp\miSerializacion\miSerializacion\obj\Debug\miSerializacion.pdb

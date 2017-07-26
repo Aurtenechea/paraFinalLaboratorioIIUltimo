@@ -1,0 +1,9 @@
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\18\Practica18\Practica18\bin\Debug\Practica18.exe.config
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\18\Practica18\Practica18\bin\Debug\Practica18.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\18\Practica18\Practica18\bin\Debug\Practica18.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\18\Practica18\Practica18\obj\Debug\Practica18.csprojResolveAssemblyReference.cache
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\18\Practica18\Practica18\obj\Debug\Practica18.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\18\Practica18\Practica18\obj\Debug\Practica18.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\18_metodo_extension\Practica18\Practica18\bin\Debug\Practica18.exe.config
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\18_metodo_extension\Practica18\Practica18\obj\Debug\Practica18.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\18_metodo_extension\Practica18\Practica18\obj\Debug\Practica18.pdb

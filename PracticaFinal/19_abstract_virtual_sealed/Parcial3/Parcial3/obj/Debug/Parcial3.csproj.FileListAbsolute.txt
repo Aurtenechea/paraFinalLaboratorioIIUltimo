@@ -1,0 +1,4 @@
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\19\Parcial3\Parcial3\bin\Debug\Parcial3.dll
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\19\Parcial3\Parcial3\bin\Debug\Parcial3.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\19\Parcial3\Parcial3\obj\Debug\Parcial3.dll
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\19\Parcial3\Parcial3\obj\Debug\Parcial3.pdb

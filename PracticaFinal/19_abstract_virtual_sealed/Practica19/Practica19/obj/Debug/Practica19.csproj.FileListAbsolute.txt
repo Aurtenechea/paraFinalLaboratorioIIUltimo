@@ -1,0 +1,5 @@
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\19\Practica19\Practica19\bin\Debug\Practica19.exe.config
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\19\Practica19\Practica19\bin\Debug\Practica19.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\19\Practica19\Practica19\bin\Debug\Practica19.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\19\Practica19\Practica19\obj\Debug\Practica19.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\19\Practica19\Practica19\obj\Debug\Practica19.pdb

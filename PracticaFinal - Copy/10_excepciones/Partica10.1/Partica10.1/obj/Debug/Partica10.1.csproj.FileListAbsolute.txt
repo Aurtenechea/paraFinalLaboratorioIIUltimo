@@ -1,0 +1,8 @@
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\10\Partica10.1\Partica10.1\bin\Debug\Partica10.1.exe.config
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\10\Partica10.1\Partica10.1\bin\Debug\Partica10.1.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\10\Partica10.1\Partica10.1\bin\Debug\Partica10.1.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\10\Partica10.1\Partica10.1\bin\Debug\lib.dll
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\10\Partica10.1\Partica10.1\bin\Debug\lib.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\10\Partica10.1\Partica10.1\obj\Debug\Partica10.1.csprojResolveAssemblyReference.cache
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\10\Partica10.1\Partica10.1\obj\Debug\Partica10.1.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\10\Partica10.1\Partica10.1\obj\Debug\Partica10.1.pdb

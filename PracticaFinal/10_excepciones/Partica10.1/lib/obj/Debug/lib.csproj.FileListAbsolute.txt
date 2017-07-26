@@ -1,0 +1,4 @@
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\10\Partica10.1\lib\bin\Debug\lib.dll
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\10\Partica10.1\lib\bin\Debug\lib.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\10\Partica10.1\lib\obj\Debug\lib.dll
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\10\Partica10.1\lib\obj\Debug\lib.pdb

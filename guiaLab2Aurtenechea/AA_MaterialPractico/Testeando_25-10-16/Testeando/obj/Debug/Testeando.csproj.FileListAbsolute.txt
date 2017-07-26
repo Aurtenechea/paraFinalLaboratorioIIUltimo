@@ -1,0 +1,14 @@
+D:\aurtenechea.ignacio\Csharp\Testeando_25-10-16\Testeando\obj\Debug\Testeando.csprojResolveAssemblyReference.cache
+D:\aurtenechea.ignacio\Csharp\Testeando_25-10-16\Testeando\bin\Debug\Testeando.dll
+D:\aurtenechea.ignacio\Csharp\Testeando_25-10-16\Testeando\bin\Debug\Testeando.pdb
+D:\aurtenechea.ignacio\Csharp\Testeando_25-10-16\Testeando\bin\Debug\Testeando_25-10-16.exe
+D:\aurtenechea.ignacio\Csharp\Testeando_25-10-16\Testeando\bin\Debug\Testeando_25-10-16.pdb
+D:\aurtenechea.ignacio\Csharp\Testeando_25-10-16\Testeando\obj\Debug\Testeando.dll
+D:\aurtenechea.ignacio\Csharp\Testeando_25-10-16\Testeando\obj\Debug\Testeando.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\Csharp\Testeando_25-10-16\Testeando\bin\Debug\Testeando.dll
+C:\Users\Nacho\Documents\programas\programasCsharp\Csharp\Testeando_25-10-16\Testeando\bin\Debug\Testeando.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\Csharp\Testeando_25-10-16\Testeando\bin\Debug\Testeando_25-10-16.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\Csharp\Testeando_25-10-16\Testeando\bin\Debug\Testeando_25-10-16.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\Csharp\Testeando_25-10-16\Testeando\obj\Debug\Testeando.csprojResolveAssemblyReference.cache
+C:\Users\Nacho\Documents\programas\programasCsharp\Csharp\Testeando_25-10-16\Testeando\obj\Debug\Testeando.dll
+C:\Users\Nacho\Documents\programas\programasCsharp\Csharp\Testeando_25-10-16\Testeando\obj\Debug\Testeando.pdb

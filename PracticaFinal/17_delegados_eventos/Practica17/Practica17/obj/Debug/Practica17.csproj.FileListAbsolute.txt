@@ -1,0 +1,6 @@
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\17\Practica17\Practica17\bin\Debug\Practica17.exe.config
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\17\Practica17\Practica17\bin\Debug\Practica17.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\17\Practica17\Practica17\bin\Debug\Practica17.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\17\Practica17\Practica17\obj\Debug\Practica17.csprojResolveAssemblyReference.cache
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\17\Practica17\Practica17\obj\Debug\Practica17.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\17\Practica17\Practica17\obj\Debug\Practica17.pdb

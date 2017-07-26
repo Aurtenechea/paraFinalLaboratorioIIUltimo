@@ -1,0 +1,9 @@
+D:\aurtenechea.ignacio\guiaLab2Aurtenechea\container\container\bin\Debug\container.exe.config
+D:\aurtenechea.ignacio\guiaLab2Aurtenechea\container\container\obj\Debug\container.csprojResolveAssemblyReference.cache
+D:\aurtenechea.ignacio\guiaLab2Aurtenechea\container\container\bin\Debug\container.exe
+D:\aurtenechea.ignacio\guiaLab2Aurtenechea\container\container\bin\Debug\container.pdb
+D:\aurtenechea.ignacio\guiaLab2Aurtenechea\container\container\obj\Debug\container.exe
+D:\aurtenechea.ignacio\guiaLab2Aurtenechea\container\container\obj\Debug\container.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\guiaLab2Aurtenechea\container\container\bin\Debug\container.exe.config
+C:\Users\Nacho\Documents\programas\programasCsharp\guiaLab2Aurtenechea\container\container\obj\Debug\container.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\guiaLab2Aurtenechea\container\container\obj\Debug\container.pdb

@@ -1,0 +1,4 @@
+D:\aurtenechea.ignacio\PrimerParcialAurtenecheaIgnacio\Entidades\bin\Debug\Entidades.dll
+D:\aurtenechea.ignacio\PrimerParcialAurtenecheaIgnacio\Entidades\bin\Debug\Entidades.pdb
+D:\aurtenechea.ignacio\PrimerParcialAurtenecheaIgnacio\Entidades\obj\Debug\Entidades.dll
+D:\aurtenechea.ignacio\PrimerParcialAurtenecheaIgnacio\Entidades\obj\Debug\Entidades.pdb

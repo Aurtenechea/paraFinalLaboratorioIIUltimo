@@ -1,0 +1,6 @@
+D:\aurtenechea.ignacio\guiaLab2Aurtenechea\EscrituraEnArchivo\EscrituraEnArchivo\bin\Debug\EscrituraEnArchivo.exe.config
+D:\aurtenechea.ignacio\guiaLab2Aurtenechea\EscrituraEnArchivo\EscrituraEnArchivo\obj\Debug\EscrituraEnArchivo.csprojResolveAssemblyReference.cache
+D:\aurtenechea.ignacio\guiaLab2Aurtenechea\EscrituraEnArchivo\EscrituraEnArchivo\bin\Debug\EscrituraEnArchivo.exe
+D:\aurtenechea.ignacio\guiaLab2Aurtenechea\EscrituraEnArchivo\EscrituraEnArchivo\bin\Debug\EscrituraEnArchivo.pdb
+D:\aurtenechea.ignacio\guiaLab2Aurtenechea\EscrituraEnArchivo\EscrituraEnArchivo\obj\Debug\EscrituraEnArchivo.exe
+D:\aurtenechea.ignacio\guiaLab2Aurtenechea\EscrituraEnArchivo\EscrituraEnArchivo\obj\Debug\EscrituraEnArchivo.pdb

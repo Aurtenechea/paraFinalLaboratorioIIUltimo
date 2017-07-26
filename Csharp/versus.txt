@@ -1,0 +1,29 @@
+static class 				no static class 
+no se puede instanciar			se puede instanciar
+solo constructores, metodos		cons, met y atr de instancia o staticos
+	y atributos staticos		
+no se puede heredar
+no se puede implementar una interface
+
+
+
+
+similitudes:
+
+propiedades en ambos.
+
+
+
+
+
+
+
+
+otros vs
+metodos vs constructores.
+clases vs objetos.
+virtuales vs abstractos.
+clases abstractas vs interfaces.
+colecciones generic vs non-generic
+clases estaticas vs no estaticas
+metodos static vs metodos non-static

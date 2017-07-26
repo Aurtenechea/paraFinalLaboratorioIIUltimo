@@ -1,0 +1,14 @@
+D:\aurtenechea.ignacio\guiaLab2Aurtenechea\EscrituraEnArchivo\UIGuardador\bin\Debug\UIGuardador.exe.config
+D:\aurtenechea.ignacio\guiaLab2Aurtenechea\EscrituraEnArchivo\UIGuardador\bin\Debug\UIGuardador.exe
+D:\aurtenechea.ignacio\guiaLab2Aurtenechea\EscrituraEnArchivo\UIGuardador\bin\Debug\UIGuardador.pdb
+D:\aurtenechea.ignacio\guiaLab2Aurtenechea\EscrituraEnArchivo\UIGuardador\bin\Debug\EscrituraEnArchivo.exe
+D:\aurtenechea.ignacio\guiaLab2Aurtenechea\EscrituraEnArchivo\UIGuardador\bin\Debug\EscrituraEnArchivo.pdb
+D:\aurtenechea.ignacio\guiaLab2Aurtenechea\EscrituraEnArchivo\UIGuardador\obj\Debug\UIGuardador.csprojResolveAssemblyReference.cache
+D:\aurtenechea.ignacio\guiaLab2Aurtenechea\EscrituraEnArchivo\UIGuardador\obj\Debug\UIGuardador.Form1.resources
+D:\aurtenechea.ignacio\guiaLab2Aurtenechea\EscrituraEnArchivo\UIGuardador\obj\Debug\UIGuardador.Properties.Resources.resources
+D:\aurtenechea.ignacio\guiaLab2Aurtenechea\EscrituraEnArchivo\UIGuardador\obj\Debug\UIGuardador.csproj.GenerateResource.Cache
+D:\aurtenechea.ignacio\guiaLab2Aurtenechea\EscrituraEnArchivo\UIGuardador\obj\Debug\UIGuardador.exe
+D:\aurtenechea.ignacio\guiaLab2Aurtenechea\EscrituraEnArchivo\UIGuardador\obj\Debug\UIGuardador.pdb
+D:\guiaLab2Aurtenechea\EscrituraEnArchivo\UIGuardador\bin\Debug\UIGuardador.exe.config
+D:\guiaLab2Aurtenechea\EscrituraEnArchivo\UIGuardador\obj\Debug\UIGuardador.exe
+D:\guiaLab2Aurtenechea\EscrituraEnArchivo\UIGuardador\obj\Debug\UIGuardador.pdb

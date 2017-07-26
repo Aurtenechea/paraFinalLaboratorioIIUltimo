@@ -1,0 +1,19 @@
+/* select simple */
+select id, apellido from Persona where id>100 and id<103
+
+
+/* insert multiple. insert, into, values */
+insert into Persona (nombre, apellido, sexo) values ('Jorge', 'Andres', 'Masculino'), ('Dario', 'Andres', 'Masculino'),('Roberto', 'Julio', 'Fem')
+
+
+/* update simple. */
+update Persona set sexo = 'mujer' where sexo='Femenino'
+/* este cambia todos los campos */
+update Persona set sexo = 'varon'
+
+
+
+/* Delete */
+delete from Persona where nombre='dario' and apellido='andres'
+/* NO OLVIDAR EL WHERE este cambia todos los campos */
+delete from Persona 

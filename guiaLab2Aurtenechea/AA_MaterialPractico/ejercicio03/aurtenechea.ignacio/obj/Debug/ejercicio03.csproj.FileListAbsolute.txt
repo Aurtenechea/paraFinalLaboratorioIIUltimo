@@ -1,0 +1,6 @@
+D:\Aurtenechea.ignacio\ejercicio03\aurtenechea.ignacio\bin\Debug\aurtenechea.ignacio.exe.config
+D:\Aurtenechea.ignacio\ejercicio03\aurtenechea.ignacio\obj\Debug\aurtenechea.ignacio.exe
+D:\Aurtenechea.ignacio\ejercicio03\aurtenechea.ignacio\obj\Debug\aurtenechea.ignacio.pdb
+D:\Aurtenechea.ignacio\ejercicio03\aurtenechea.ignacio\bin\Debug\aurtenechea.ignacio.exe
+D:\Aurtenechea.ignacio\ejercicio03\aurtenechea.ignacio\bin\Debug\aurtenechea.ignacio.pdb
+D:\Aurtenechea.ignacio\ejercicio03\aurtenechea.ignacio\obj\Debug\ejercicio03.csprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+D:\aurtenechea.ignacio\mas\EventsAndDelegates\Consola\bin\Debug\Consola.exe.config
+D:\aurtenechea.ignacio\mas\EventsAndDelegates\Consola\bin\Debug\Consola.exe
+D:\aurtenechea.ignacio\mas\EventsAndDelegates\Consola\bin\Debug\Consola.pdb
+D:\aurtenechea.ignacio\mas\EventsAndDelegates\Consola\obj\Debug\Consola.exe
+D:\aurtenechea.ignacio\mas\EventsAndDelegates\Consola\obj\Debug\Consola.pdb
+D:\aurtenechea.ignacio\mas\EventsAndDelegates\Consola\obj\Debug\Consola.csprojResolveAssemblyReference.cache
+C:\Users\Nacho\Documents\programas\programasCsharp\guiaLab2Aurtenechea\AA_MaterialPractico\AA_Organizados\EventsAndDelegates\Consola\bin\Debug\Consola.exe.config
+C:\Users\Nacho\Documents\programas\programasCsharp\guiaLab2Aurtenechea\AA_MaterialPractico\AA_Organizados\EventsAndDelegates\Consola\obj\Debug\Consola.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\guiaLab2Aurtenechea\AA_MaterialPractico\AA_Organizados\EventsAndDelegates\Consola\obj\Debug\Consola.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\guiaLab2Aurtenechea\AA_MaterialPractico\AA_Organizados\EventsAndDelegates\Consola\bin\Debug\Consola.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\guiaLab2Aurtenechea\AA_MaterialPractico\AA_Organizados\EventsAndDelegates\Consola\bin\Debug\Consola.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\guiaLab2Aurtenechea\AA_MaterialPractico\AA_Organizados\EventsAndDelegates\Consola\obj\Debug\Consola.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\24_operadores\operadores\operadores\bin\Debug\operadores.exe.config
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\24_operadores\operadores\operadores\bin\Debug\operadores.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\24_operadores\operadores\operadores\bin\Debug\operadores.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\24_operadores\operadores\operadores\obj\Debug\operadores.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\24_operadores\operadores\operadores\obj\Debug\operadores.pdb

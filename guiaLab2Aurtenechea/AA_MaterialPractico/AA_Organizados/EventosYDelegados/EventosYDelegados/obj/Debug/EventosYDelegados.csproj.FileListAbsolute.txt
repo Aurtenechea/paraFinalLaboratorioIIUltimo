@@ -1,0 +1,9 @@
+C:\Users\Nacho\Desktop\EventosYDelegados\EventosYDelegados\bin\Debug\EventosYDelegados.exe.config
+C:\Users\Nacho\Desktop\EventosYDelegados\EventosYDelegados\bin\Debug\EventosYDelegados.exe
+C:\Users\Nacho\Desktop\EventosYDelegados\EventosYDelegados\bin\Debug\EventosYDelegados.pdb
+C:\Users\Nacho\Desktop\EventosYDelegados\EventosYDelegados\obj\Debug\EventosYDelegados.csprojResolveAssemblyReference.cache
+C:\Users\Nacho\Desktop\EventosYDelegados\EventosYDelegados\obj\Debug\EventosYDelegados.exe
+C:\Users\Nacho\Desktop\EventosYDelegados\EventosYDelegados\obj\Debug\EventosYDelegados.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\guiaLab2Aurtenechea\AA_MaterialPractico\AA_Organizados\EventosYDelegados\EventosYDelegados\bin\Debug\EventosYDelegados.exe.config
+C:\Users\Nacho\Documents\programas\programasCsharp\guiaLab2Aurtenechea\AA_MaterialPractico\AA_Organizados\EventosYDelegados\EventosYDelegados\obj\Debug\EventosYDelegados.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\guiaLab2Aurtenechea\AA_MaterialPractico\AA_Organizados\EventosYDelegados\EventosYDelegados\obj\Debug\EventosYDelegados.pdb

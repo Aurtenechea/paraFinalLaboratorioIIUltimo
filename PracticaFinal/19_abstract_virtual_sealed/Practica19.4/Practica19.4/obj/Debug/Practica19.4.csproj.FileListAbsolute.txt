@@ -1,0 +1,6 @@
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\19\Practica19.4\Practica19.4\bin\Debug\Practica19.4.exe.config
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\19\Practica19.4\Practica19.4\bin\Debug\Practica19.4.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\19\Practica19.4\Practica19.4\bin\Debug\Practica19.4.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\19\Practica19.4\Practica19.4\obj\Debug\Practica19.4.csprojResolveAssemblyReference.cache
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\19\Practica19.4\Practica19.4\obj\Debug\Practica19.4.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\19\Practica19.4\Practica19.4\obj\Debug\Practica19.4.pdb

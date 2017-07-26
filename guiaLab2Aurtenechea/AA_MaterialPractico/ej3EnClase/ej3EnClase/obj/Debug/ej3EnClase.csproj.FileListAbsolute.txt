@@ -1,0 +1,9 @@
+D:\aurtenechea.ignacio\guiaLab2Aurtenechea\ej3EnClase\ej3EnClase\bin\Debug\ej3EnClase.exe.config
+D:\aurtenechea.ignacio\guiaLab2Aurtenechea\ej3EnClase\ej3EnClase\bin\Debug\ej3EnClase.exe
+D:\aurtenechea.ignacio\guiaLab2Aurtenechea\ej3EnClase\ej3EnClase\bin\Debug\ej3EnClase.pdb
+D:\aurtenechea.ignacio\guiaLab2Aurtenechea\ej3EnClase\ej3EnClase\obj\Debug\ej3EnClase.csprojResolveAssemblyReference.cache
+D:\aurtenechea.ignacio\guiaLab2Aurtenechea\ej3EnClase\ej3EnClase\obj\Debug\ej3EnClase.Properties.Resources.resources
+D:\aurtenechea.ignacio\guiaLab2Aurtenechea\ej3EnClase\ej3EnClase\obj\Debug\ej3EnClase.csproj.GenerateResource.Cache
+D:\aurtenechea.ignacio\guiaLab2Aurtenechea\ej3EnClase\ej3EnClase\obj\Debug\ej3EnClase.exe
+D:\aurtenechea.ignacio\guiaLab2Aurtenechea\ej3EnClase\ej3EnClase\obj\Debug\ej3EnClase.pdb
+D:\aurtenechea.ignacio\guiaLab2Aurtenechea\ej3EnClase\ej3EnClase\obj\Debug\ej3EnClase.Form1.resources

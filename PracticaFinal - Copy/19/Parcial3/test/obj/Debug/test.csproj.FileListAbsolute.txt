@@ -1,0 +1,8 @@
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\19\Parcial3\test\bin\Debug\test.exe.config
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\19\Parcial3\test\bin\Debug\test.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\19\Parcial3\test\bin\Debug\test.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\19\Parcial3\test\bin\Debug\Parcial3.dll
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\19\Parcial3\test\bin\Debug\Parcial3.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\19\Parcial3\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\19\Parcial3\test\obj\Debug\test.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\19\Parcial3\test\obj\Debug\test.pdb

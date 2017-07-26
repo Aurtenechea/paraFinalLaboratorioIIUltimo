@@ -1,0 +1,6 @@
+C:\Users\Nacho\Documents\programas\programasCsharp\ejerciciosPracticosCsharp\constructores\constructores\bin\Debug\constructores.exe.config
+C:\Users\Nacho\Documents\programas\programasCsharp\ejerciciosPracticosCsharp\constructores\constructores\bin\Debug\constructores.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\ejerciciosPracticosCsharp\constructores\constructores\bin\Debug\constructores.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\ejerciciosPracticosCsharp\constructores\constructores\obj\Debug\constructores.csprojResolveAssemblyReference.cache
+C:\Users\Nacho\Documents\programas\programasCsharp\ejerciciosPracticosCsharp\constructores\constructores\obj\Debug\constructores.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\ejerciciosPracticosCsharp\constructores\constructores\obj\Debug\constructores.pdb

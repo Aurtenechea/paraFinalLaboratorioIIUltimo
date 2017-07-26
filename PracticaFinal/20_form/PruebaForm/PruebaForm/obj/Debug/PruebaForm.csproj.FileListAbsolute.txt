@@ -1,0 +1,11 @@
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\20\PruebaForm\PruebaForm\bin\Debug\PruebaForm.exe.config
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\20\PruebaForm\PruebaForm\bin\Debug\PruebaForm.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\20\PruebaForm\PruebaForm\bin\Debug\PruebaForm.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\20\PruebaForm\PruebaForm\obj\Debug\PruebaForm.csprojResolveAssemblyReference.cache
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\20\PruebaForm\PruebaForm\obj\Debug\PruebaForm.Properties.Resources.resources
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\20\PruebaForm\PruebaForm\obj\Debug\PruebaForm.csproj.GenerateResource.Cache
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\20\PruebaForm\PruebaForm\obj\Debug\PruebaForm.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\20\PruebaForm\PruebaForm\obj\Debug\PruebaForm.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\20\PruebaForm\PruebaForm\obj\Debug\PruebaForm.Form1.resources
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\20\PruebaForm\PruebaForm\bin\Debug\Lib.dll
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\20\PruebaForm\PruebaForm\bin\Debug\Lib.pdb

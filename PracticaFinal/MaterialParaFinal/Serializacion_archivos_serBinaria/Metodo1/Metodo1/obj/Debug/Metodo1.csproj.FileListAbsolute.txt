@@ -1,0 +1,4 @@
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\MaterialParaFinal\Serializacion\Metodo1\Metodo1\bin\Debug\Metodo1.dll
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\MaterialParaFinal\Serializacion\Metodo1\Metodo1\bin\Debug\Metodo1.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\MaterialParaFinal\Serializacion\Metodo1\Metodo1\obj\Debug\Metodo1.dll
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\MaterialParaFinal\Serializacion\Metodo1\Metodo1\obj\Debug\Metodo1.pdb

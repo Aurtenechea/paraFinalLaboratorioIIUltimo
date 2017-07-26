@@ -1,0 +1,9 @@
+D:\aurtenechea.ignacio\Csharp\interfaceEjercicio\interfaceEjercicio\bin\Debug\interfaceEjercicio.exe.config
+D:\aurtenechea.ignacio\Csharp\interfaceEjercicio\interfaceEjercicio\obj\Debug\interfaceEjercicio.csprojResolveAssemblyReference.cache
+D:\aurtenechea.ignacio\Csharp\interfaceEjercicio\interfaceEjercicio\bin\Debug\interfaceEjercicio.exe
+D:\aurtenechea.ignacio\Csharp\interfaceEjercicio\interfaceEjercicio\bin\Debug\interfaceEjercicio.pdb
+D:\aurtenechea.ignacio\Csharp\interfaceEjercicio\interfaceEjercicio\obj\Debug\interfaceEjercicio.exe
+D:\aurtenechea.ignacio\Csharp\interfaceEjercicio\interfaceEjercicio\obj\Debug\interfaceEjercicio.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\guiaLab2Aurtenechea\AA_MaterialPractico\interfaceEjercicio\interfaceEjercicio\bin\Debug\interfaceEjercicio.exe.config
+C:\Users\Nacho\Documents\programas\programasCsharp\guiaLab2Aurtenechea\AA_MaterialPractico\interfaceEjercicio\interfaceEjercicio\obj\Debug\interfaceEjercicio.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\guiaLab2Aurtenechea\AA_MaterialPractico\interfaceEjercicio\interfaceEjercicio\obj\Debug\interfaceEjercicio.pdb

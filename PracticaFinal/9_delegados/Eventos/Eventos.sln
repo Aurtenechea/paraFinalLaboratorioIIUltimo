@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eventos", "Eventos\Eventos.csproj", "{AEAF2E6B-431E-4EE4-A4A0-95FDCE1774C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEAF2E6B-431E-4EE4-A4A0-95FDCE1774C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEAF2E6B-431E-4EE4-A4A0-95FDCE1774C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEAF2E6B-431E-4EE4-A4A0-95FDCE1774C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEAF2E6B-431E-4EE4-A4A0-95FDCE1774C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

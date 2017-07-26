@@ -1,0 +1,2 @@
+D:\Aurtenechea.ignacio\ejercicio16\ejercicio16\bin\Debug\ejercicio16.exe.config
+C:\Users\Nacho\Documents\programas\programasCsharp\Csharp\ejercicio16\ejercicio16\bin\Debug\ejercicio16.exe.config

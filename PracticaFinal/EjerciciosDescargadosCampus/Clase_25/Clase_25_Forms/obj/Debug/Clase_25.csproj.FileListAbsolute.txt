@@ -1,0 +1,9 @@
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_25\Clase_25_Forms\bin\Debug\Clase_6_Forms.exe.config
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_25\Clase_25_Forms\obj\Debug\Clase_6_Forms.exe
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_25\Clase_25_Forms\obj\Debug\Clase_6_Forms.pdb
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_25\Clase_25_Forms\bin\Debug\Clase_6_Forms.exe
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_25\Clase_25_Forms\bin\Debug\Clase_6_Forms.pdb
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_25\Clase_25_Forms\obj\Debug\Clase_25.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_25\Clase_25_Forms\obj\Debug\Clase_6_Forms.frmStrings.resources
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_25\Clase_25_Forms\obj\Debug\Clase_6_Forms.Properties.Resources.resources
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_25\Clase_25_Forms\obj\Debug\Clase_25.csproj.GenerateResource.Cache

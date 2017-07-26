@@ -1,0 +1,5 @@
+C:\Users\Nacho\Documents\programas\programasCsharp\guiaLab2Aurtenechea\02\02\bin\Debug\02.exe.config
+C:\Users\Nacho\Documents\programas\programasCsharp\guiaLab2Aurtenechea\02\02\bin\Debug\02.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\guiaLab2Aurtenechea\02\02\bin\Debug\02.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\guiaLab2Aurtenechea\02\02\obj\Debug\02.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\guiaLab2Aurtenechea\02\02\obj\Debug\02.pdb

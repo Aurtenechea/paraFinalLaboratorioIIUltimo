@@ -1,0 +1,6 @@
+D:\aurtenechea.ignacio\Csharp\Herencia\Herencia\bin\Debug\Herencia.exe.config
+D:\aurtenechea.ignacio\Csharp\Herencia\Herencia\bin\Debug\Herencia.exe
+D:\aurtenechea.ignacio\Csharp\Herencia\Herencia\bin\Debug\Herencia.pdb
+D:\aurtenechea.ignacio\Csharp\Herencia\Herencia\obj\Debug\Herencia.csprojResolveAssemblyReference.cache
+D:\aurtenechea.ignacio\Csharp\Herencia\Herencia\obj\Debug\Herencia.exe
+D:\aurtenechea.ignacio\Csharp\Herencia\Herencia\obj\Debug\Herencia.pdb

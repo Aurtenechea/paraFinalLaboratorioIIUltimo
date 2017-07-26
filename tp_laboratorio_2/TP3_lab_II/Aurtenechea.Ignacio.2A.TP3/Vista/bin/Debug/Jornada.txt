@@ -1,0 +1,26 @@
+JORNADA:
+CLASE DE Pilates POR NOMBRE COMPLETO: Juarez, Roberto
+NACIONALIDAD: Argentino
+
+CARNET NUMERO: 2
+CLASES DEL DIA 
+Yoga
+Pilates
+
+ALUMNOS: 
+NOMBRE COMPLETO: Hernandez, Miguel
+NACIONALIDAD: Extranjero
+
+CARNET NUMERO: 4
+
+ESTADO DE CUENTA: Cuota al dia
+TOMA CLASES DE Pilates
+NOMBRE COMPLETO: Smith, Rodrigo
+NACIONALIDAD: Argentino
+
+CARNET NUMERO: 8
+
+ESTADO DE CUENTA: Cuota al dia
+TOMA CLASES DE Pilates
+<------------------------------------------------------------------------>
+

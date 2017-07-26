@@ -1,0 +1,6 @@
+C:\Users\Nacho\Documents\programas\programasCsharp\ejerciciosPracticosCsharp\sobrecargaOperadores\sobrecargaOperadores\bin\Debug\sobrecargaOperadores.exe.config
+C:\Users\Nacho\Documents\programas\programasCsharp\ejerciciosPracticosCsharp\sobrecargaOperadores\sobrecargaOperadores\obj\Debug\sobrecargaOperadores.csprojResolveAssemblyReference.cache
+C:\Users\Nacho\Documents\programas\programasCsharp\ejerciciosPracticosCsharp\sobrecargaOperadores\sobrecargaOperadores\bin\Debug\sobrecargaOperadores.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\ejerciciosPracticosCsharp\sobrecargaOperadores\sobrecargaOperadores\bin\Debug\sobrecargaOperadores.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\ejerciciosPracticosCsharp\sobrecargaOperadores\sobrecargaOperadores\obj\Debug\sobrecargaOperadores.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\ejerciciosPracticosCsharp\sobrecargaOperadores\sobrecargaOperadores\obj\Debug\sobrecargaOperadores.pdb

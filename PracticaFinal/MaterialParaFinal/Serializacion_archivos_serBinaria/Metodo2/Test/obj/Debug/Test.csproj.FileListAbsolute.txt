@@ -1,0 +1,8 @@
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\MaterialParaFinal\Serializacion\Metodo2\Metodo2\Test\bin\Debug\Test.exe.config
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\MaterialParaFinal\Serializacion\Metodo2\Metodo2\Test\bin\Debug\Test.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\MaterialParaFinal\Serializacion\Metodo2\Metodo2\Test\bin\Debug\Test.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\MaterialParaFinal\Serializacion\Metodo2\Metodo2\Test\bin\Debug\Metodo2.dll
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\MaterialParaFinal\Serializacion\Metodo2\Metodo2\Test\bin\Debug\Metodo2.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\MaterialParaFinal\Serializacion\Metodo2\Metodo2\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\MaterialParaFinal\Serializacion\Metodo2\Metodo2\Test\obj\Debug\Test.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\MaterialParaFinal\Serializacion\Metodo2\Metodo2\Test\obj\Debug\Test.pdb

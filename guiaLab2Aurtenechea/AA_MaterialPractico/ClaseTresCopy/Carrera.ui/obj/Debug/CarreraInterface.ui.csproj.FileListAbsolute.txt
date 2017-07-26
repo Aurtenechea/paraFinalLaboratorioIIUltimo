@@ -1,0 +1,5 @@
+D:\aurtenechea.ignacio\Csharp\ClaseTres\Carrera.ui\obj\Debug\CarreraInterface.ui.csprojResolveAssemblyReference.cache
+D:\aurtenechea.ignacio\Csharp\ClaseTres\Carrera.ui\obj\Debug\CarreraInterface.ui.Form1.resources
+D:\aurtenechea.ignacio\Csharp\ClaseTres\Carrera.ui\obj\Debug\Carrera.ui.Properties.Resources.resources
+D:\aurtenechea.ignacio\Csharp\ClaseTres\Carrera.ui\obj\Debug\CarreraInterface.ui.csproj.GenerateResource.Cache
+D:\aurtenechea.ignacio\Csharp\ClaseTres\Carrera.ui\bin\Debug\Carrera.ui.exe.config

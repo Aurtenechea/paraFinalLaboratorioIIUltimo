@@ -1,0 +1,6 @@
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\14_interfaces\Interfaces2\Interfaces2\bin\Debug\Interfaces2.exe.config
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\14_interfaces\Interfaces2\Interfaces2\obj\Debug\Interfaces2.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\14_interfaces\Interfaces2\Interfaces2\obj\Debug\Interfaces2.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\14_interfaces\Interfaces2\Interfaces2\bin\Debug\Interfaces2.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\14_interfaces\Interfaces2\Interfaces2\bin\Debug\Interfaces2.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\14_interfaces\Interfaces2\Interfaces2\obj\Debug\Interfaces2.csprojResolveAssemblyReference.cache

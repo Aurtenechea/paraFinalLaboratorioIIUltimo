@@ -1,0 +1,4 @@
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\20\PruebaForm\Lib\bin\Debug\Lib.dll
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\20\PruebaForm\Lib\bin\Debug\Lib.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\20\PruebaForm\Lib\obj\Debug\Lib.dll
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\20\PruebaForm\Lib\obj\Debug\Lib.pdb

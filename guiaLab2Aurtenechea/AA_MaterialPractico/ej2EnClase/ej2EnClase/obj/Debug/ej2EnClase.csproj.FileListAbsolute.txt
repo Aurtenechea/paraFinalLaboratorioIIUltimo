@@ -1,0 +1,12 @@
+D:\aurtenechea.ignacio\guiaLab2Aurtenechea\ej2EnClase\ej2EnClase\bin\Debug\ej2EnClase.exe.config
+D:\aurtenechea.ignacio\guiaLab2Aurtenechea\ej2EnClase\ej2EnClase\bin\Debug\ej2EnClase.exe
+D:\aurtenechea.ignacio\guiaLab2Aurtenechea\ej2EnClase\ej2EnClase\bin\Debug\ej2EnClase.pdb
+D:\aurtenechea.ignacio\guiaLab2Aurtenechea\ej2EnClase\ej2EnClase\obj\Debug\ej2EnClase.csprojResolveAssemblyReference.cache
+D:\aurtenechea.ignacio\guiaLab2Aurtenechea\ej2EnClase\ej2EnClase\obj\Debug\ej2EnClase.exe
+D:\aurtenechea.ignacio\guiaLab2Aurtenechea\ej2EnClase\ej2EnClase\obj\Debug\ej2EnClase.pdb
+C:\Users\Nacho\Desktop\MaterialPractico\ej2EnClase\ej2EnClase\bin\Debug\ej2EnClase.exe.config
+C:\Users\Nacho\Desktop\MaterialPractico\ej2EnClase\ej2EnClase\obj\Debug\ej2EnClase.exe
+C:\Users\Nacho\Desktop\MaterialPractico\ej2EnClase\ej2EnClase\obj\Debug\ej2EnClase.pdb
+C:\Users\Nacho\Desktop\MaterialPractico\ej2EnClase\ej2EnClase\bin\Debug\ej2EnClase.exe
+C:\Users\Nacho\Desktop\MaterialPractico\ej2EnClase\ej2EnClase\bin\Debug\ej2EnClase.pdb
+C:\Users\Nacho\Desktop\MaterialPractico\ej2EnClase\ej2EnClase\obj\Debug\ej2EnClase.csprojResolveAssemblyReference.cache

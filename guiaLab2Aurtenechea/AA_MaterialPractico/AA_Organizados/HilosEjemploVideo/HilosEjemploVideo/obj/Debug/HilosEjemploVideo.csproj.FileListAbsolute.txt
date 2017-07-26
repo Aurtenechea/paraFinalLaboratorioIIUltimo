@@ -1,0 +1,9 @@
+C:\Users\Nacho\Desktop\HilosEjemploVideo\HilosEjemploVideo\bin\Debug\HilosEjemploVideo.exe.config
+C:\Users\Nacho\Desktop\HilosEjemploVideo\HilosEjemploVideo\bin\Debug\HilosEjemploVideo.exe
+C:\Users\Nacho\Desktop\HilosEjemploVideo\HilosEjemploVideo\bin\Debug\HilosEjemploVideo.pdb
+C:\Users\Nacho\Desktop\HilosEjemploVideo\HilosEjemploVideo\obj\Debug\HilosEjemploVideo.csprojResolveAssemblyReference.cache
+C:\Users\Nacho\Desktop\HilosEjemploVideo\HilosEjemploVideo\obj\Debug\HilosEjemploVideo.exe
+C:\Users\Nacho\Desktop\HilosEjemploVideo\HilosEjemploVideo\obj\Debug\HilosEjemploVideo.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\guiaLab2Aurtenechea\AA_MaterialPractico\AA_Organizados\HilosEjemploVideo\HilosEjemploVideo\bin\Debug\HilosEjemploVideo.exe.config
+C:\Users\Nacho\Documents\programas\programasCsharp\guiaLab2Aurtenechea\AA_MaterialPractico\AA_Organizados\HilosEjemploVideo\HilosEjemploVideo\obj\Debug\HilosEjemploVideo.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\guiaLab2Aurtenechea\AA_MaterialPractico\AA_Organizados\HilosEjemploVideo\HilosEjemploVideo\obj\Debug\HilosEjemploVideo.pdb

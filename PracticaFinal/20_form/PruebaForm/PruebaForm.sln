@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaForm", "PruebaForm\PruebaForm.csproj", "{92BB2161-1B01-4D67-8E69-A535E4F64334}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lib", "Lib\Lib.csproj", "{6ED93914-4A3A-481D-9743-E157C4588F5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92BB2161-1B01-4D67-8E69-A535E4F64334}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92BB2161-1B01-4D67-8E69-A535E4F64334}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92BB2161-1B01-4D67-8E69-A535E4F64334}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92BB2161-1B01-4D67-8E69-A535E4F64334}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6ED93914-4A3A-481D-9743-E157C4588F5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ED93914-4A3A-481D-9743-E157C4588F5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ED93914-4A3A-481D-9743-E157C4588F5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ED93914-4A3A-481D-9743-E157C4588F5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

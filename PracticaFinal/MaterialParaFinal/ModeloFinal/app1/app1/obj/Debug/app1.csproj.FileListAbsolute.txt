@@ -1,0 +1,11 @@
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\MaterialParaFinal\ModeloFinal\app1\app1\bin\Debug\app1.exe.config
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\MaterialParaFinal\ModeloFinal\app1\app1\bin\Debug\app1.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\MaterialParaFinal\ModeloFinal\app1\app1\bin\Debug\app1.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\MaterialParaFinal\ModeloFinal\app1\app1\obj\Debug\app1.csprojResolveAssemblyReference.cache
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\MaterialParaFinal\ModeloFinal\app1\app1\obj\Debug\app1.Form1.resources
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\MaterialParaFinal\ModeloFinal\app1\app1\obj\Debug\app1.Form2.resources
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\MaterialParaFinal\ModeloFinal\app1\app1\obj\Debug\app1.Properties.Resources.resources
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\MaterialParaFinal\ModeloFinal\app1\app1\obj\Debug\app1.csproj.GenerateResource.Cache
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\MaterialParaFinal\ModeloFinal\app1\app1\obj\Debug\app1.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\MaterialParaFinal\ModeloFinal\app1\app1\obj\Debug\app1.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\MaterialParaFinal\ModeloFinal\app1\app1\obj\Debug\app1.Form3.resources

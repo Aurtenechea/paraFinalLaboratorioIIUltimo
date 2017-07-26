@@ -1,0 +1,8 @@
+C:\Users\Nacho\Documents\programas\programasCsharp\ejerciciosPracticosCsharp\formulario\formulario\bin\Debug\formulario.exe.config
+C:\Users\Nacho\Documents\programas\programasCsharp\ejerciciosPracticosCsharp\formulario\formulario\bin\Debug\formulario.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\ejerciciosPracticosCsharp\formulario\formulario\bin\Debug\formulario.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\ejerciciosPracticosCsharp\formulario\formulario\obj\Debug\formulario.csprojResolveAssemblyReference.cache
+C:\Users\Nacho\Documents\programas\programasCsharp\ejerciciosPracticosCsharp\formulario\formulario\obj\Debug\formulario.Properties.Resources.resources
+C:\Users\Nacho\Documents\programas\programasCsharp\ejerciciosPracticosCsharp\formulario\formulario\obj\Debug\formulario.csproj.GenerateResource.Cache
+C:\Users\Nacho\Documents\programas\programasCsharp\ejerciciosPracticosCsharp\formulario\formulario\obj\Debug\formulario.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\ejerciciosPracticosCsharp\formulario\formulario\obj\Debug\formulario.pdb

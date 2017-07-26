@@ -1,0 +1,5 @@
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\10\Practica10\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\10\Practica10\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\10\Practica10\Excepciones\obj\Debug\Excepciones.csprojResolveAssemblyReference.cache
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\10\Practica10\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\10\Practica10\Excepciones\obj\Debug\Excepciones.pdb

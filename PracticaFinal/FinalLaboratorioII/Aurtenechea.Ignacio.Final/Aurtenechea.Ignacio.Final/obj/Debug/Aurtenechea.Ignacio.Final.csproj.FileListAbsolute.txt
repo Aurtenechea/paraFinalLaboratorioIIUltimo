@@ -1,0 +1,5 @@
+D:\aurtenechea.ignacio.final\Aurtenechea.Ignacio.Final\Aurtenechea.Ignacio.Final\bin\Debug\Aurtenechea.Ignacio.Final.dll
+D:\aurtenechea.ignacio.final\Aurtenechea.Ignacio.Final\Aurtenechea.Ignacio.Final\bin\Debug\Aurtenechea.Ignacio.Final.pdb
+D:\aurtenechea.ignacio.final\Aurtenechea.Ignacio.Final\Aurtenechea.Ignacio.Final\obj\Debug\Aurtenechea.Ignacio.Final.csprojResolveAssemblyReference.cache
+D:\aurtenechea.ignacio.final\Aurtenechea.Ignacio.Final\Aurtenechea.Ignacio.Final\obj\Debug\Aurtenechea.Ignacio.Final.dll
+D:\aurtenechea.ignacio.final\Aurtenechea.Ignacio.Final\Aurtenechea.Ignacio.Final\obj\Debug\Aurtenechea.Ignacio.Final.pdb

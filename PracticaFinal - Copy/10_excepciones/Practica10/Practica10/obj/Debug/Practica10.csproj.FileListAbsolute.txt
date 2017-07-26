@@ -1,0 +1,10 @@
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\10\Practica10\Practica10\bin\Debug\Practica10.exe.config
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\10\Practica10\Practica10\bin\Debug\Practica10.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\10\Practica10\Practica10\bin\Debug\Practica10.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\10\Practica10\Practica10\bin\Debug\Proyecto10.dll
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\10\Practica10\Practica10\bin\Debug\Excepciones.dll
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\10\Practica10\Practica10\bin\Debug\Proyecto10.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\10\Practica10\Practica10\bin\Debug\Excepciones.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\10\Practica10\Practica10\obj\Debug\Practica10.csprojResolveAssemblyReference.cache
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\10\Practica10\Practica10\obj\Debug\Practica10.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\10\Practica10\Practica10\obj\Debug\Practica10.pdb
