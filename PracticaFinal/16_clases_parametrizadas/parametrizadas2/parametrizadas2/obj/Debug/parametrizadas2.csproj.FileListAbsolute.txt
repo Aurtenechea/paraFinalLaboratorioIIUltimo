@@ -1,0 +1,5 @@
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\16_clases_parametrizadas\parametrizadas2\parametrizadas2\bin\Debug\parametrizadas2.exe.config
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\16_clases_parametrizadas\parametrizadas2\parametrizadas2\bin\Debug\parametrizadas2.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\16_clases_parametrizadas\parametrizadas2\parametrizadas2\bin\Debug\parametrizadas2.pdb
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\16_clases_parametrizadas\parametrizadas2\parametrizadas2\obj\Debug\parametrizadas2.exe
+C:\Users\Nacho\Documents\programas\programasCsharp\PracticaFinal\16_clases_parametrizadas\parametrizadas2\parametrizadas2\obj\Debug\parametrizadas2.pdb
